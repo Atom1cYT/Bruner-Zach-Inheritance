@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bruner Zach Inheritance")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7adbbeafd154b94eaf64ca8f41f23392a3d8a070")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bruner Zach Inheritance")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bruner Zach Inheritance")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
