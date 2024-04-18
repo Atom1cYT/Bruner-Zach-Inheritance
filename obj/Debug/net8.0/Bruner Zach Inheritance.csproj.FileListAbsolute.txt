@@ -1,0 +1,14 @@
+C:\Users\ZacharyBruner\source\repos\Bruner Zach Inheritance\obj\Debug\net8.0\Bruner Zach Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZacharyBruner\source\repos\Bruner Zach Inheritance\obj\Debug\net8.0\Bruner Zach Inheritance.AssemblyInfoInputs.cache
+C:\Users\ZacharyBruner\source\repos\Bruner Zach Inheritance\obj\Debug\net8.0\Bruner Zach Inheritance.AssemblyInfo.cs
+C:\Users\ZacharyBruner\source\repos\Bruner Zach Inheritance\obj\Debug\net8.0\Bruner Zach Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\ZacharyBruner\source\repos\Bruner Zach Inheritance\bin\Debug\net8.0\Bruner Zach Inheritance.exe
+C:\Users\ZacharyBruner\source\repos\Bruner Zach Inheritance\bin\Debug\net8.0\Bruner Zach Inheritance.deps.json
+C:\Users\ZacharyBruner\source\repos\Bruner Zach Inheritance\bin\Debug\net8.0\Bruner Zach Inheritance.runtimeconfig.json
+C:\Users\ZacharyBruner\source\repos\Bruner Zach Inheritance\bin\Debug\net8.0\Bruner Zach Inheritance.dll
+C:\Users\ZacharyBruner\source\repos\Bruner Zach Inheritance\bin\Debug\net8.0\Bruner Zach Inheritance.pdb
+C:\Users\ZacharyBruner\source\repos\Bruner Zach Inheritance\obj\Debug\net8.0\Bruner Zach Inheritance.dll
+C:\Users\ZacharyBruner\source\repos\Bruner Zach Inheritance\obj\Debug\net8.0\refint\Bruner Zach Inheritance.dll
+C:\Users\ZacharyBruner\source\repos\Bruner Zach Inheritance\obj\Debug\net8.0\Bruner Zach Inheritance.pdb
+C:\Users\ZacharyBruner\source\repos\Bruner Zach Inheritance\obj\Debug\net8.0\Bruner Zach Inheritance.genruntimeconfig.cache
+C:\Users\ZacharyBruner\source\repos\Bruner Zach Inheritance\obj\Debug\net8.0\ref\Bruner Zach Inheritance.dll
